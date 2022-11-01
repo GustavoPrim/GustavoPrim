@@ -5,8 +5,8 @@
 ###
 
 <div align="center"> 
- <a href="https:https://www.linkedin.com/in/gustavo-henrique-prim-22361a243/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ <a href="https://linktr.ee/gustavoprim18" target="_blank">
+    <img src="https://img.shields.io/badge/-Contatos-%230077B5?style=for-the-badge" target="_blank">
   </a>
 </div>
 
